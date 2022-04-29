@@ -1,0 +1,5 @@
+C:\Users\Mathias\Desktop\ISD\Kode\Sleep\CMSIS/core_cm0plus.h:745:22:NVIC_EnableIRQ	16	static
+C:\Users\Mathias\Desktop\ISD\Kode\Sleep\CMSIS/core_cm0plus.h:791:22:NVIC_ClearPendingIRQ	16	static
+C:\Users\Mathias\Desktop\ISD\Kode\Sleep\CMSIS/core_cm0plus.h:804:22:NVIC_SetPriority	24	static
+../source/LPTMR.c:12:6:LPTMR0_IRQHandler	8	static
+../source/LPTMR.c:29:6:initLPTMR	8	static

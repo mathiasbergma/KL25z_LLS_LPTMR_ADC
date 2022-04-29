@@ -1,0 +1,2 @@
+../source/color_rgb.c:10:6:init_LED	8	static
+../source/color_rgb.c:35:6:color_rgb	16	static
